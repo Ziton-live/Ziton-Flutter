@@ -12,16 +12,15 @@ Production level errors are reported using reportError Function where user can s
 * Assign & share errors  
 * Report error in production mode
 
-## Getting Started
-### 0. Create project
-Create a flutter project in <a href = "https://ziton.live/">Ziton</a> dashboard and copy down the dsn for that project
-### 1. Depend on it
+## Configuration
+
+### 1. Adding Dependency
 Add package name with version to your package's `pubspec.yaml` file:
 ```yaml
 dependencies:
   ziton_error 0.0.3
 ```
-### 2. Install it
+### 2. Install 
 Install packages from the command line:
 with `pub`:
 ```
@@ -31,7 +30,7 @@ with `Flutter`:
 ```
 $ flutter pub get
 ```
-### 3. Import it
+### 3. Import 
 Import in `Dart` contains runApp function, you can use:
 ```dart
 import 'package:ziton_error/ziton_error.dart';
