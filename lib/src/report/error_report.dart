@@ -9,7 +9,7 @@ Future<void> errorReport(
     String dsn, String msg, String fileName, String description) async {
   try {
     http.Response response = await http.post(Uri.parse(urRoute()), body: {
-      "stack_trace": StackTrace.current ?? "cannot collect stack",
+      "stack_trace": StackTrace.current.toString(),
       "name": msg,
       "error_file_name": fileName,
       "line_number": "0",

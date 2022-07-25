@@ -25,7 +25,7 @@ Add package name with version to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  ziton_error 0.0.1
+  ziton_error 0.0.3
 ```
 
 ### 2. Install it
@@ -53,9 +53,10 @@ import 'package:ziton_error/ziton_error.dart';
 ```
 
 
-## Usage
+## Usage in debug level
 
-Import package and Listen for errors with ZitonError function
+Import package ziton_error  and Listen for errors with ZitonError function
+
 
 ```dart
 //call FlutterError function inside main()
@@ -68,6 +69,24 @@ void main() {
 }
 ```
 
+
+## Usage in production level
+
+Import package ziton_error add reportError in catch block with error message and description
+
+
+```dart
+ try {
+    //something won't work
+ } 
+ catch (error) {
+    ReportError(
+      "https://OokNpSGVsSrzqesUiHBTXHnzFDtGMVoViJdgtXcFNCUmYwhQhwXiouYWbTFy.ziton.live",
+      "error function does not exist",
+      "main.dart",
+      "error in running this code.this code produces error that must be reported to the ziton live");
+}
+```
 
 
 dsn is the unique key provided to each project, look something like this 
