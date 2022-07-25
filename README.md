@@ -75,4 +75,4 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 
 ## Additional information
 
-head on to https://ziton.live/home for further information.
+head on to <a href="https://ziton.live/home">Ziton Home</a> for further information.
