@@ -1,4 +1,4 @@
-# <img src="https://lh3.googleusercontent.com/a-/AFdZucq7_CuN_qLTe-vvMMasQZOCT2bqKPIr3ed1i7Ze=s360-p-rw-no" width="50px"> Ziton Error
+# <img src="https://lh3.googleusercontent.com/a-/AFdZucq7_CuN_qLTe-vvMMasQZOCT2bqKPIr3ed1i7Ze=s360-p-rw-no" width="40px">   Ziton Error
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
 
 
