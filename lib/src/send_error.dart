@@ -10,6 +10,7 @@ import 'package:http/http.dart' as http;
 
 import 'error_file.dart';
 
+/// collects error information from the
 sendError(String dsn, FlutterErrorDetails errorDetails) async {
   try {
     http.Response response = await http.post(Uri.parse(urRoute()), body: {
@@ -28,12 +29,16 @@ sendError(String dsn, FlutterErrorDetails errorDetails) async {
       "screen": json.encode(screenDetails()),
       "project": dsn
     });
-    if (kDebugMode) {
-      print(response.statusCode);
+
+    if (response.statusCode == 201) {
+      if (kDebugMode) {
+        print("head on to https://ziton.live/ to see error information");
+      }
+    } else {
+      if (kDebugMode) {
+        print(
+            "failed to push errors to ziton dashboard !! \n Check your internet connection");
+      }
     }
-  } catch (error) {
-    if (kDebugMode) {
-      print("failed to push");
-    }
-  }
+  } catch (error) {}
 }

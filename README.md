@@ -48,10 +48,12 @@ import 'package:ziton_error/ziton_error.dart';
 import package and Listen for errors with ZitonError function
 
 ```dart
-    FlutterError.onError = (FlutterErrorDetails errorDetails){
-ZitonError("your dsn",errorDetails);
+FlutterError.onError = (FlutterErrorDetails errorDetails){
+  ZitonError("your dsn",errorDetails);
 };
 ```
+your dsn will look something like this
+  https://OokNpSGVsSrzqesUiHBTXHnzFDtGMVoViJdgtXcFNCUmYwhQhwXiouYWbTFy.ziton.live
 
 
 

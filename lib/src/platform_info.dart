@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:ui';
 
-
+///platform information such as system, version, host name... retrieved using Platform class
 Map platformInfo()
 {
   Map plat = {
@@ -14,6 +14,7 @@ Map platformInfo()
   return plat;
 }
 
+///screen details such as dimensions and pixel information retrieved using window class
 Map screenDetails(){
   Map screenDetails = {
     "Pixel Ratio": window.devicePixelRatio,
@@ -30,7 +31,9 @@ Map screenDetails(){
   return screenDetails;
 }
 
+/// theme of the os currently the application running on
 String theme(){
+  ///obtained from window class
   if (window.platformBrightness == Brightness.light) {
     return "Light";
   } else {

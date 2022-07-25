@@ -8,3 +8,7 @@ class ZitonError {
     sendError(dsn, errorDetails);
   }
 }
+
+class ReportError{
+
+}

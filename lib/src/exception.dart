@@ -9,6 +9,7 @@ String exceptionName(FlutterErrorDetails errorDetails) {
     if (errorDetails.exception.toString().length > 500) {
       exceptionName = errorDetails.exception.toString().split(".")[0];
     } else {
+      /// if size is less than 500 words
       exceptionName = errorDetails.exception.toString();
     }
   } catch (error) {
@@ -17,6 +18,7 @@ String exceptionName(FlutterErrorDetails errorDetails) {
   return exceptionName;
 }
 
+///error information from flutter error object
 String errorInfo(FlutterErrorDetails errorDetails) {
   String inform = "not available";
   inform = TextTreeRenderer(
