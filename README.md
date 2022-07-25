@@ -136,13 +136,13 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 ## Project info
 - [x] select red mark on top right side of the project card
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s6.png" width = "600px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/r1.png" width = "600px">
 
 - [x] project dsn
 - [x] deleting project
 - [x] add collaberators
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s6.png" width = "600px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/r2.png" width = "600px">
 
 ## Additional information
 
