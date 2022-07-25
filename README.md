@@ -1,4 +1,7 @@
-# Glitch Text
+# <img src="https://lh3.googleusercontent.com/a-/AFdZucq7_CuN_qLTe-vvMMasQZOCT2bqKPIr3ed1i7Ze=s360-p-rw-no" width="30px">   Ziton Error
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
+
+
 A Flutter package for error monitoring and reporting.Listen for common flutter errors & pushed to the project dashboard when it occurs.
 
 
@@ -14,7 +17,7 @@ A Flutter package for error monitoring and reporting.Listen for common flutter e
 ## Getting Started
 
 ## 0. Create project
-Create a flutter project in Ziton dashboard and copy down the dsn for that project
+Create a flutter project in <a href = "https://ziton.live/">Ziton</a> dashboard and copy down the dsn for that project
 
 ### 1. Depend on it
 Add package name with version to your package's `pubspec.yaml` file:
@@ -73,4 +76,4 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 
 ## Additional information
 
-head on to https://ziton.live/home for further information.
+head on to <a href="https://ziton.live/home">Ziton Home</a> for further information.
