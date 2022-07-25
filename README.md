@@ -1,8 +1,5 @@
 # Ziton Error
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="https://pub.dev/packages/ziton_error/score"><img src="https://badges.bar/talker/likes" alt="Pub likes"></a>
-  <a href="https://pub.dev/packages/ziton_error/score"><img src="https://badges.bar/talker/popularity" alt="Pub popularity"></a>
-  <a href="https://pub.dev/packages/ziton_error/score"><img src="https://badges.bar/talker/pub%20points" alt="Pub points"></a>
 
 
 A Flutter package for error monitoring and reporting.Listen for common flutter errors & pushed to the project dashboard when it occurs.
