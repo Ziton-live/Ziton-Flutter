@@ -16,7 +16,7 @@ A Flutter package for error monitoring and reporting.Listen for common flutter e
 ## Getting Started
 
 ## 0. Create project
-Create a flutter project in Ziton dashboard and copy down the dsn for that project
+Create a flutter project in <a href = "https://ziton.live/">Ziton</a> dashboard and copy down the dsn for that project
 
 ### 1. Depend on it
 Add package name with version to your package's `pubspec.yaml` file:
