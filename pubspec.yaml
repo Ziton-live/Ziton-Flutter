@@ -1,7 +1,7 @@
 name: ziton_error
 description: plugin for testing error management
 version: 0.0.1
-homepage:
+homepage: https://github.com/Ziton-live/Ziton-Flutter
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
@@ -11,10 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  http: ^0.13.4
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
