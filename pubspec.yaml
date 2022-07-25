@@ -1,6 +1,6 @@
 name: ziton_error
-description: plugin for testing error management
-version: 0.0.1
+description: A Flutter package for error monitoring and reporting (ziton.live)
+version: 0.0.2
 homepage: https://github.com/Ziton-live/Ziton-Flutter
 
 environment:
