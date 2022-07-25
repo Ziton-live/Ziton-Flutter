@@ -142,6 +142,8 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 - [x] deleting project
 - [x] add collaberators
 
+can be done from this screen
+
 <img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/r2.png" width = "600px">
 
 ## Additional information
