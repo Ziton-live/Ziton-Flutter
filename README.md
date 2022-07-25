@@ -1,4 +1,6 @@
-# Glitch Text
+# Ziton Error
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
+
 A Flutter package for error monitoring and reporting.Listen for common flutter errors & pushed to the project dashboard when it occurs.
 
 
