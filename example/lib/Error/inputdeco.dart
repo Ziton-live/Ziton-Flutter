@@ -11,7 +11,7 @@ class _InputDecoState extends State<InputDeco> {
   @override
   Widget build(BuildContext context) {
     return Row(
-      children: [
+      children:const  [
         TextField(),
       ],
     );

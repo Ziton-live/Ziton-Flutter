@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
 import 'package:ziton_error/src/error_file.dart';
 
 /// to parse the portion of code that causes the error

@@ -10,6 +10,9 @@ class InParent extends StatefulWidget {
 class _InParentState extends State<InParent> {
   @override
   Widget build(BuildContext context) {
-    return Expanded(child: Row(children: [],));
+    return Expanded(
+        child: Row(
+      children: const [],
+    ));
   }
 }

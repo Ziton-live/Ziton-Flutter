@@ -14,7 +14,7 @@ class _ViewPortState extends State<ViewPort> {
     double screenWidth = MediaQuery.of(context).size.width;
     return Scaffold(
       backgroundColor: Colors.white,
-      body: Container(
+      body: SizedBox(
         height:screenHeight,
         width: screenWidth,
         child: Column(

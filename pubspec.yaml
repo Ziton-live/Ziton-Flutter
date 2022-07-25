@@ -1,6 +1,6 @@
 name: ziton_error
 description: A Flutter package for error monitoring and reporting (ziton.live)
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Ziton-live/Ziton-Flutter
 
 environment:
@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^0.13.4
+  connectivity_plus: ^2.3.6
 
 
 dev_dependencies:

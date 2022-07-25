@@ -5,10 +5,11 @@ A Flutter package for error monitoring and reporting.Listen for common flutter e
 
 ## Features
 * Error information with context
-* platform and screen information
-* error file info with lines causing error 
-* project panel for collaboration 
-* assign & share errors  
+* Platform and screen information
+* Error file info with lines causing error 
+* Project panel for collaboration 
+* Assign & share errors  
+* Report error in production mode
 
 ## Getting Started
 
