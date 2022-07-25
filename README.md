@@ -17,7 +17,7 @@ Production level errors are reported using reportError Function where user can s
 
 ## Getting Started
 
-## 0. Create project
+### 0. Create project
 Create a flutter project in <a href = "https://ziton.live/">Ziton</a> dashboard and copy down the dsn for that project
 
 ### 1. Depend on it
@@ -98,9 +98,13 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 
 
 ## Dashboard Error View
--Error Listing with tracking number of occurance sort out based on time
+- [x] Error Listing with tracking number of occurance sort out based on time
 
--Individual Error with meta data and detailed clean view of stack trace 
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/result1.png" width = "800px">
+
+
+- [x] Individual Error with meta data and detailed clean view of stack trace 
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/result2.png" width = "800px">
 
 ## Additional information
 
