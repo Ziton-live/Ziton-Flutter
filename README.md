@@ -85,7 +85,8 @@ Import package ziton_error add reportError in catch block with error message and
       "https://OokNpSGVsSrzqesUiHBTXHnzFDtGMVoViJdgtXcFNCUmYwhQhwXiouYWbTFy.ziton.live",
       "error function does not exist",
       "main.dart",
-      "error in running this code.this code produces error that must be reported to the ziton live");
+      "error in running this code.this code produces error that must be reported to the ziton live"
+      );
 }
 ```
 
