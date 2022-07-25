@@ -109,28 +109,28 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 ## Create project and generate dsn
 - [x] Head on to ziton.live homepage
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s1.png" width = "400px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s1.png" width = "600px">
 
 - [x] Login to ziton.live 
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s2.png" width = "400px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s2.png" width = "600px">
 
 - [x] click on create new project
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s3.png" width = "400px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s3.png" width = "600px">
 
 
 - [x] add name and description of the project
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s4.png" width = "400px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s4.png" width = "600px">
 
 - [x] choose the stack whether flutter/django
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s5.png" width = "400px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s5.png" width = "600px">
 
 - [x]  here you go 🥳 copy your dsn and add to project 😍
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s6.png" width = "400px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s6.png" width = "600px">
 
 
 ## Additional information
