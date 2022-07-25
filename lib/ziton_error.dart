@@ -10,9 +10,8 @@ class ZitonError {
   }
 }
 
-class ReportError{
-  ReportError(String dsn,String msg,String fileName,String description)
-  {
+class ReportError {
+  ReportError(String dsn, String msg, String fileName, String description) {
     errorReport(dsn, msg, fileName, description);
   }
 }

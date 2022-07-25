@@ -65,5 +65,3 @@ sendError(String dsn, FlutterErrorDetails errorDetails) async {
     }
   }
 }
-
-

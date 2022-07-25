@@ -28,7 +28,3 @@ String errorInfo(FlutterErrorDetails errorDetails) {
       .trimRight();
   return inform;
 }
-
-
-
-

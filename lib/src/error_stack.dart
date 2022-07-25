@@ -17,5 +17,3 @@ String errorStack(FlutterErrorDetails errorDetails) {
       : errorDetails.stack.toString();
   return stackNow;
 }
-
-
