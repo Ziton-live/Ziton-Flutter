@@ -106,6 +106,33 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 - [x] Individual Error with meta data and detailed clean view of stack trace 
 <img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/result2.png" width = "800px">
 
+## Create project and generate dsn
+- [x] Head on to ziton.live homepage
+
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s1.png" width = "400px">
+
+- [x] Login to ziton.live 
+
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s2.png" width = "400px">
+
+- [x] click on create new project
+
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s3.png" width = "400px">
+
+
+- [x] add name and description of the project
+
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s4.png" width = "400px">
+
+- [x] choose the stack whether flutter/django
+
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s5.png" width = "400px">
+
+- [x]  here you go 🥳 copy your dsn and add to project 😍
+
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/s6.png" width = "400px">
+
+
 ## Additional information
 
 head on to <a href="https://ziton.live/home">Ziton Home</a> for further information.
