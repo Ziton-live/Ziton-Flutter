@@ -1,5 +1,4 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
 
 ///to parse error file name
 String errorFile(FlutterErrorDetails errorDetails) {

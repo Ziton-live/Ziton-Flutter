@@ -1,5 +1,5 @@
 # Glitch Text
-A Flutter package for testing error monitoring
+A Flutter package for testing error monitoring and reporting.
 
 ## Features
 * Error information with context
@@ -39,16 +39,18 @@ $ flutter pub get ziton_error
 Now in your `Dart` code, you can use:
 
 ```dart
-import 'package:glitch_text/glitch_text.dart';
+import 'package:ziton_error/ziton_error.dart';
 ```
 
 
 ## Usage
 
-import plugin and create GlichText function
+import package and Listen for errors with ZitonError function
 
 ```dart
-  
+    FlutterError.onError = (FlutterErrorDetails errorDetails){
+ZitonError("your dsn",errorDetails);
+};
 ```
 
 
@@ -57,3 +59,4 @@ import plugin and create GlichText function
 
 ## Additional information
 
+head on to https://ziton.live/home for further information.

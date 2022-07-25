@@ -1,5 +1,4 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
 
 ///exception name
 String exceptionName(FlutterErrorDetails errorDetails) {
