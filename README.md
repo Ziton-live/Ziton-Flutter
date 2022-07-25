@@ -53,9 +53,14 @@ import 'package:ziton_error/ziton_error.dart';
 Import package and Listen for errors with ZitonError function
 
 ```dart
-FlutterError.onError = (FlutterErrorDetails errorDetails){
-  ZitonError("your dsn",errorDetails);
-};
+//call FlutterError function inside main()
+void main() {
+  FlutterError.onError = (FlutterErrorDetails errorDetails){
+    //report error to ziton
+    ZitonError("your dsn",errorDetails);
+  };
+  runApp(const MyApp());
+}
 ```
 
 dsn is the unique key provided to each project, look something like this :https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
