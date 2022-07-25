@@ -99,11 +99,11 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 ## Dashboard Error View
 - [x] Error Listing with tracking number of occurance sort out based on time
 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/result1.png" width = "300px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/result1.png" width = "800px">
 
 
 - [x] Individual Error with meta data and detailed clean view of stack trace 
-<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/result1.png" width = "300px">
+<img src ="https://github.com/Ziton-live/Ziton-Flutter/blob/main/assets/result2.png" width = "800px">
 
 ## Additional information
 
