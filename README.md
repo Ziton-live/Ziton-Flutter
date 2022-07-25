@@ -1,17 +1,22 @@
 # Glitch Text
-A Flutter package for testing error monitoring and reporting.
+A Flutter package for error monitoring and reporting.Listen for common flutter errors & pushed to the project dashboard when it occurs.
+
+
 
 ## Features
 * Error information with context
 * platform and screen information
 * error file info with lines causing error 
 * project panel for collaboration 
+* assign & share errors  
 
 ## Getting Started
 
-### 1. Depend on it
+## 0 Create project
+Create a flutter project in Ziton dashboard and copy down the dsn for that project
 
-Add this to your package's `pubspec.yaml` file:
+### 1. Depend on it
+Add package name with version to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
@@ -20,7 +25,7 @@ dependencies:
 
 ### 2. Install it
 
-You can install packages from the command line:
+Install packages from the command line:
 
 with `pub`:
 
@@ -31,12 +36,12 @@ $ pub get
 with `Flutter`:
 
 ```
-$ flutter pub get ziton_error 
+$ flutter pub get
 ```
 
 ### 3. Import it
 
-Now in your `Dart` code, you can use:
+Import in `Dart` contains runApp function, you can use:
 
 ```dart
 import 'package:ziton_error/ziton_error.dart';
@@ -45,18 +50,15 @@ import 'package:ziton_error/ziton_error.dart';
 
 ## Usage
 
-import package and Listen for errors with ZitonError function
+Import package and Listen for errors with ZitonError function
 
 ```dart
 FlutterError.onError = (FlutterErrorDetails errorDetails){
   ZitonError("your dsn",errorDetails);
 };
 ```
-your dsn will look something like this
-  https://OokNpSGVsSrzqesUiHBTXHnzFDtGMVoViJdgtXcFNCUmYwhQhwXiouYWbTFy.ziton.live
 
-
-
+dsn is the unique key provided to each project, look something like this :https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 
 
 ## Additional information
