@@ -96,6 +96,10 @@ https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 ```
 
 
+## Dashboard Error View
+-Error Listing with tracking number of occurance sort out based on time
+
+-Individual Error with meta data and detailed clean view of stack trace 
 
 ## Additional information
 
