@@ -2,7 +2,8 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
 
 
-A Flutter package for error monitoring and reporting.Listen for common flutter errors & pushed to the project dashboard when it occurs.
+A Flutter package for error monitoring and reporting. Listen for common flutter errors & push error details along with Stack trace, platform & screen information to ziton project dashboard when it occurs at debug level.
+Production level errors are reported using reportError Function where user can specify custom error message and description, platform and screen information along with error message pushed to ziton dashboard.
 
 
 
@@ -73,6 +74,8 @@ dsn is the unique key provided to each project, look something like this
 ```
 https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 ```
+
+
 
 ## Additional information
 
