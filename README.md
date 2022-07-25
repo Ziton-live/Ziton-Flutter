@@ -12,7 +12,7 @@ A Flutter package for error monitoring and reporting.Listen for common flutter e
 
 ## Getting Started
 
-## 0 Create project
+## 0. Create project
 Create a flutter project in Ziton dashboard and copy down the dsn for that project
 
 ### 1. Depend on it
@@ -63,8 +63,12 @@ void main() {
 }
 ```
 
-dsn is the unique key provided to each project, look something like this :https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
 
+
+dsn is the unique key provided to each project, look something like this 
+```
+https://OokNpSGxxxxxxxxxxxxxxxxxxxxxcFNCUmYwhQhwXiouYWbTFy.ziton.live
+```
 
 ## Additional information
 
