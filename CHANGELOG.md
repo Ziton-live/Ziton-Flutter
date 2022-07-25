@@ -14,3 +14,4 @@
 ## 0.0.4
   - production level error reporting 
   - offline mode compatibility added
+  - added steps to generate dsn
