@@ -80,6 +80,7 @@ Import package ziton_error add reportError in catch block with error message and
     //something won't work
  } 
  catch (error) {
+  //call report error function with parameters dsn,name, filename, description.
     ReportError(
       "https://OokNpSGVsSrzqesUiHBTXHnzFDtGMVoViJdgtXcFNCUmYwhQhwXiouYWbTFy.ziton.live",
       "error function does not exist",
